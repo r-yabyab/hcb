@@ -1,7 +1,10 @@
-import React from 'react'
+import React, {useState} from 'react'
 import { Button } from 'react-bootstrap';
+import SocketStuff from './SocketStuff';
+import { TextRand } from './TextRand';
 
 function HomePage () {
+
     return(
 <>
     {/* maincContainer */}
@@ -14,7 +17,8 @@ function HomePage () {
         {/* topleft sec */}
         <div className='pl-4 pt-3 relative max-w-[600px]'>
             <p className='select-none font-extrabold text-transparent text-xl bg-clip-text bg-gradient-to-r from-fuchsia-500 to-amber-400'>
-                PLAY GAMES, MEET PEOPLE. HANG OUT.
+                {/* PLAY GAMES, MEET PEOPLE. HANG OUT. */}
+                <TextRand />
             </p>
             <p className='text-[10px] tracking-tight'>Welcome to the best place to play games and have fun with your friends online. Get
                 started now by playing a game. It's free!
@@ -27,12 +31,20 @@ function HomePage () {
         </div>
 
     </div>
+
+
+
 </sec>
 
         {/* <div className=' text-red-700 bottom-[50%] translate-x-1/2 right-[50%] -translate-y-1/2'>
             HomePage
         </div> */}
+        
     </div>
+
+
+
+
 </>
     )
 }
