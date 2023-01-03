@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/honeycomb/static/css/main.e44f290c.css",
-    "main.js": "/honeycomb/static/js/main.d1f02b98.js",
-    "static/js/787.0e01597e.chunk.js": "/honeycomb/static/js/787.0e01597e.chunk.js",
-    "static/media/clay_catjpg.jpg": "/honeycomb/static/media/clay_catjpg.4e021b0f99259acf513e.jpg",
-    "static/media/dtrumppng.png": "/honeycomb/static/media/dtrumppng.3a28b7fe068ed4c5a1bd.png",
-    "static/media/ex_beginning.jpg": "/honeycomb/static/media/ex_beginning.11f8cbc8fbb83b337589.jpg",
-    "static/media/ex_end.jpg": "/honeycomb/static/media/ex_end.32234a02d5202a0eaf53.jpg",
-    "static/media/bobamajpg.jpg": "/honeycomb/static/media/bobamajpg.a8febc6f6182f4bc76a8.jpg",
-    "static/media/fried_ricejpg.JPG": "/honeycomb/static/media/fried_ricejpg.5d0aca66d18469564a7f.JPG",
-    "static/media/card_dealer.jpg": "/honeycomb/static/media/card_dealer.c02a23594075b0c2a14c.jpg",
-    "static/media/pologjpg.jpg": "/honeycomb/static/media/pologjpg.cfa815574905ee4d0490.jpg",
-    "static/media/OMGPOP_logo.png": "/honeycomb/static/media/OMGPOP_logo.1aeab19066d214fbd47c.png",
-    "static/media/facebook_logopng.png": "/honeycomb/static/media/facebook_logopng.4370ac0b2a7136b8ddab.png",
-    "index.html": "/honeycomb/index.html",
-    "main.e44f290c.css.map": "/honeycomb/static/css/main.e44f290c.css.map",
-    "main.d1f02b98.js.map": "/honeycomb/static/js/main.d1f02b98.js.map",
-    "787.0e01597e.chunk.js.map": "/honeycomb/static/js/787.0e01597e.chunk.js.map"
+    "main.css": "/hcb/static/css/main.e44f290c.css",
+    "main.js": "/hcb/static/js/main.94d6adaa.js",
+    "static/js/787.0e01597e.chunk.js": "/hcb/static/js/787.0e01597e.chunk.js",
+    "static/media/clay_catjpg.jpg": "/hcb/static/media/clay_catjpg.4e021b0f99259acf513e.jpg",
+    "static/media/dtrumppng.png": "/hcb/static/media/dtrumppng.3a28b7fe068ed4c5a1bd.png",
+    "static/media/ex_beginning.jpg": "/hcb/static/media/ex_beginning.11f8cbc8fbb83b337589.jpg",
+    "static/media/ex_end.jpg": "/hcb/static/media/ex_end.32234a02d5202a0eaf53.jpg",
+    "static/media/bobamajpg.jpg": "/hcb/static/media/bobamajpg.a8febc6f6182f4bc76a8.jpg",
+    "static/media/fried_ricejpg.JPG": "/hcb/static/media/fried_ricejpg.5d0aca66d18469564a7f.JPG",
+    "static/media/card_dealer.jpg": "/hcb/static/media/card_dealer.c02a23594075b0c2a14c.jpg",
+    "static/media/pologjpg.jpg": "/hcb/static/media/pologjpg.cfa815574905ee4d0490.jpg",
+    "static/media/OMGPOP_logo.png": "/hcb/static/media/OMGPOP_logo.1aeab19066d214fbd47c.png",
+    "static/media/facebook_logopng.png": "/hcb/static/media/facebook_logopng.4370ac0b2a7136b8ddab.png",
+    "index.html": "/hcb/index.html",
+    "main.e44f290c.css.map": "/hcb/static/css/main.e44f290c.css.map",
+    "main.94d6adaa.js.map": "/hcb/static/js/main.94d6adaa.js.map",
+    "787.0e01597e.chunk.js.map": "/hcb/static/js/787.0e01597e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e44f290c.css",
-    "static/js/main.d1f02b98.js"
+    "static/js/main.94d6adaa.js"
   ]
 }
