@@ -12,6 +12,8 @@ function App() {
 <>
 <TopNav />
 
+<div className='min-h-screen bg-cover bg-[#525252] bg-fixed bg-center CustomGradient'>
+
 <Routes>
 <Route path='/' element={<HomePage />} />
 <Route path='/examples' element={<Examples />} />
@@ -21,6 +23,8 @@ function App() {
 */}
 <Route path='/info' element={<Info />} />
 </Routes>
+
+</div>
 
 <BottomNav />
 </>

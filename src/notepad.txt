@@ -12,3 +12,17 @@ git push
 
 
 npm run deploy
+
+
+////////
+////////
+<div className='relative'>
+      <div className='
+      absolute bg-gray-900 bg-opacity-70 text-white w-full
+      [&>p]:-mb-1 [&>p]:ml-1
+      '>
+      <p className='text-gray-400'>FEATURED GAME</p>
+      <p className='text-3xl font-semibold pb-2'>TONK</p>
+      </div>
+      <img draggable="false" className='object-cover pointer-events-none select-none w-full max-h-[400px]' src={CardDealer} alt='card_dealer.jpg' />
+  </div>

@@ -59,9 +59,8 @@ return(
     </div>
 
         <div className='absolute top-[40px] right-[200px] animate-bounce'>
-            <Link to='/examples'><Button variant="info" size="sm">
-                ex img
-            </Button></Link>
+            <Link to='/examples'>
+                <Button variant="info" size="sm">ex img</Button></Link>
         </div>
 
     </>

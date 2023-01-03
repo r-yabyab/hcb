@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { Button } from "react-bootstrap";
 import io from "socket.io-client";
-const socket = io.connect('http://localhost:3001');
+const socket = io.connect('http://localhost:3001');  //connects here to backend
 
 function SocketStuff () {
+    const [username, setUserName] = useState("")
     const [message, setMessage] = useState("")
     // message received from other user
     const [messageReceived, setMessageReceived] = useState("")
